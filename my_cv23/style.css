@@ -87,9 +87,9 @@ html {
     margin-top: 7%;
 }
 .imagen2 img {
-    text-align: center;
+    text-align: left;
     margin-top: 25px;
-    margin-left: 20px;
+    margin-left: 30px;
     align-items: center;
     border-radius: 5%;
     position:relative;

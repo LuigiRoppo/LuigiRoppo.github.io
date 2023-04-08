@@ -1,4 +1,7 @@
 
+{
+    
+}
 .foto_reseña {
     display:grid;
     grid-template-columns: 30% 70%;
@@ -31,14 +34,7 @@
     border-radius: 5%;
     text-align: center;
 }
-
-
-
-
-
-
-
-.Contenedor {
+Contenedor {
     max-width: 120rem;
     margin: 0 auto;
 }
@@ -83,3 +79,7 @@
     grid-template-columns: 200px 300px;
     grid-template-rows: 125px;
 }
+
+
+tareas pendientes----
+1) hacer un resposive mq version tlf texto de contacme y descrcpciones de WeCanHelp (07ABR23)

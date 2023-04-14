@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  min-height: 900px;
+  max-height: 200px;
 }
 html {
   background-color: #000;
@@ -17,35 +17,7 @@ body {
   width: 768px;
   margin: auto;
 }
-.rrss_bar {
-  display: grid;
-  grid-template-columns: 18% 18% 18% 18% 18%;
-  margin-bottom: 0%;
-  margin-top: 2%;
-}
 
-.Twitter {
-  text-align: center;
-  margin-top: 10px;
-  margin-left: 25px;
-  align-items: center;
-  border-radius: 10%;
-}
-.GH {
-  text-align: center;
-  margin-top: 10px;
-  margin-left: 25px;
-  align-items: center;
-  border-radius: 10%;
-}
-
-.LD {
-  text-align: center;
-  margin-top: 10px;
-  margin-left: 25px;
-  align-items: center;
-  border-radius: 10%;
-}
 
 .contenedor {
   display: grid;

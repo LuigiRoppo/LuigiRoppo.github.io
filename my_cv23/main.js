@@ -1,5 +1,5 @@
 //main
-//window.alert("!!");
+/*window.alert("!!");
 
 $(document).ready(function () {
   var form = $(".contenedor_general"),
